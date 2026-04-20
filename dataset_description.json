@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "This dataset contains all the raw data files for the paper: Whisker deprivation triggers a distinct form of cortical homeostatic plasticity that is impaired in the Fmr1 KO",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Lakhani, Alishah"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
